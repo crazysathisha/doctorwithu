@@ -1,0 +1,2 @@
+# doctorwithu
+Doctorwithu “Your mobile is your health record” is a PAN INDIA DIGITAL INDIA INITIATIVE.  Doctorwithu is a comprehensive solution for every TRUE INDIAN who would play the role of an ambassador to create and develop “HEALTHY INDIA” by maintaining health records in an electronic format, sequentially, chronologically, and securely accessible globally on smart phone. Paperless health records help create a GREEN EARTH by saving trees used to manufacture paper.  Doctorwitu is a GO-GREEN INITIATIVE too.
