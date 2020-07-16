@@ -1,0 +1,12 @@
+{
+  "mongo": {
+
+    "url": "mongodb://localhost:27017/live_doctor"
+  },
+  "superSecret": "0ebe2294ecd0e0f08eab7690d2a6ee68",
+  "encryptionStandard": "aes-256-ctr",
+
+  "accessKeyId": "AKIAI35M26CHECVLCFCQ", //enter your accesskeyId
+  "secretAccessKey": "1t4HChqghJyDSEYwRJDoxPe27vg/TJQtEvsNUeSR", // enter your secretAccessKey
+  "region": "us-east-1" // enter your region which you choose on account setup
+}
